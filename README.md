@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+This is the Repo of Assessment Given by WhatBytes for frontend role. I created the dashboard like page with graph and piecharts
+
+
+https://github.com/user-attachments/assets/dc5652f1-7440-406e-ac5e-9edfd3ad4a50
+
 
 ## Getting Started
 
